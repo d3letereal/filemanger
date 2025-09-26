@@ -12,13 +12,13 @@ This file manager includes all the features of a regular file manager, but with 
 
 ## Technologies
 - Java
-- Swing / JavaFX (specify which one if applicable)
+- JavaFX 
 - File I/O operations
 
 ## Usage
 1. Clone the repository
 2. Open the project in your Java IDE
-3. Run the `Main.java` file
+3. Run the `MainApp.java` file
 4. Start managing your files seamlessly within the app
 
 ---
